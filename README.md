@@ -11,11 +11,13 @@
 
 ## Projets universitaires en équipe
 
-- **[OcéanView](https://github.com/ArilesD/oceanview-copernicus)** · Visualisation de données marines avec Flask, MySQL, Leaflet et Plotly. [ZIP](https://github.com/ArilesD/oceanview-copernicus/archive/refs/heads/main.zip)
-- **[DiplomAAtique](https://github.com/ArilesD/diplomaatique)** · Extraction d’arrêtés depuis du texte OCR, sortie JSON et recherche SQLite. [ZIP](https://github.com/ArilesD/diplomaatique/archive/refs/heads/main.zip)
-- **[Data Ameli](https://github.com/ArilesD/site-amelie)** · Exploration des prescriptions et des professions de santé. [Base SQLite et rapport](https://github.com/ArilesD/database-amelie) · [ZIP de l’application](https://github.com/ArilesD/site-amelie/archive/refs/heads/main.zip)
-- **[Stations Vélib’](https://github.com/ArilesD/Projet-Velib)** · Cartes du voisinage des stations avec SciPy et Folium. [Carte interactive](https://arilesd.github.io/Projet-Velib/velib_stations_voronoi.html) · [ZIP](https://github.com/ArilesD/Projet-Velib/archive/refs/heads/main.zip)
-- **[Hub’Eau](https://github.com/ArilesD/site-HubEau)** · Carte et analyses d’eau potable avec Flask et SQLite. [ZIP](https://github.com/ArilesD/site-HubEau/archive/refs/heads/main.zip)
+Les dépôts ci-dessous sont des forks sur mon compte. GitHub indique le dépôt d’origine et conserve l’historique de l’équipe.
+
+- **[OcéanView](https://github.com/Kajan94/oceanview-copernicus)** · Visualisation de données marines avec Flask, MySQL, Leaflet et Plotly. [ZIP](https://github.com/Kajan94/oceanview-copernicus/archive/refs/heads/main.zip)
+- **[DiplomAAtique](https://github.com/Kajan94/diplomaatique)** · Extraction d’arrêtés depuis du texte OCR, sortie JSON et recherche SQLite. [ZIP](https://github.com/Kajan94/diplomaatique/archive/refs/heads/main.zip)
+- **[Data Ameli](https://github.com/Kajan94/site-amelie)** · Exploration des prescriptions et des professions de santé. [Base SQLite et rapport](https://github.com/Kajan94/database-amelie) · [ZIP de l’application](https://github.com/Kajan94/site-amelie/archive/refs/heads/main.zip)
+- **[Stations Vélib’](https://github.com/Kajan94/Projet-Velib)** · Cartes du voisinage des stations avec SciPy et Folium. [Carte interactive](https://arilesd.github.io/Projet-Velib/velib_stations_voronoi.html) · [ZIP](https://github.com/Kajan94/Projet-Velib/archive/refs/heads/main.zip)
+- **[Hub’Eau](https://github.com/Kajan94/site-HubEau)** · Carte et analyses d’eau potable avec Flask et SQLite. [ZIP](https://github.com/Kajan94/site-HubEau/archive/refs/heads/main.zip)
 
 ## Expérience
 
