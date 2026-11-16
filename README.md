@@ -2,7 +2,7 @@
 
 Étudiant en 3e année de BUT Informatique à l’IUT de Créteil-Vitry (UPEC). Je travaille avec Python, SQL et JavaScript sur des projets de traitement de données, de développement web et d’automatisation.
 
-**[Voir mon portfolio](https://kajan94.github.io/)** · [LinkedIn](https://www.linkedin.com/in/kajan-arulnathan-b466a1330/)
+**[Voir mon portfolio](https://kajan94.github.io/Portefolio/)** · [LinkedIn](https://www.linkedin.com/in/kajan-arulnathan-b466a1330/)
 
 ## Projets d’équipe
 
