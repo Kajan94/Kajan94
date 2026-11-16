@@ -30,6 +30,16 @@ Paris · avril à juin 2026
 
 <img src="https://github.com/user-attachments/assets/c3759571-38e5-4c4e-bee5-6b413a17945c" alt="Écran d’accueil de l’assistant technique avec un champ de question" width="720">
 
+#### Tableau de bord d’occupation des salles
+
+**Indicateurs d’occupation** — Données fictives. Le tableau de bord calcule les taux d’occupation par catégorie de salle et affiche les logiciels utilisés sur la période filtrée.
+
+<img src="https://github.com/user-attachments/assets/8068cb09-c72c-403f-87eb-58b3be9bf2a7" alt="Tableau de bord d’occupation avec filtres de dates, indicateurs et répartition des logiciels, sur données fictives." width="720">
+
+**Inventaire des salles** — Données fictives. La vue détaillée liste les salles par nom et catégorie.
+
+<img src="https://github.com/user-attachments/assets/31370ec9-5c57-4110-af7a-aff045128d2b" alt="Inventaire de salles fictives avec leur catégorie et leur identifiant de démonstration." width="720">
+
 ## Disponibilités
 
 - Alternance d’un an, avec un démarrage possible jusqu’à fin décembre 2026.
