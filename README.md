@@ -8,8 +8,10 @@
 
 - **[Stage Data et automatisation](https://github.com/Kajan94/stage-data-automatisation)** — Assistant documentaire local, tableau de bord d’occupation et automatisation de la gestion des accès.
 - **[OcéanView](https://github.com/Kajan94/Oceanview)** — Application d’exploration marine. API Flask, MySQL, Leaflet et Plotly.
-- **[Data Ameli](https://kajan94.github.io/Portefolio/#ameli)** — Tableau de bord Excel et exploration des données de santé avec [Flask](https://github.com/Kajan94/site-amelie) et [SQLite](https://github.com/Kajan94/database-amelie).
-- **[Voir mes autres projets](https://kajan94.github.io/Portefolio/#projets)** — DiplomAAtique, Vélib’ et Hub’Eau.
+- **[Data Ameli](https://github.com/Kajan94/site-amelie)** — Tableau de bord Excel et application Flask pour explorer les données de santé. [Dépôt de la base SQLite](https://github.com/Kajan94/database-amelie).
+- **[DiplomAAtique](https://github.com/Kajan94/diplomaatique)** — Extraction d’arrêtés, export JSON et recherche avec Flask et SQLite.
+- **[Stations Vélib’](https://github.com/Kajan94/Projet-Velib)** — Cartes de proximité des stations et modélisation du raccordement électrique.
+- **[Hub’Eau](https://github.com/Kajan94/HubEau)** — Analyses d’eau potable et recherche des réseaux de distribution par commune.
 
 ## Expérience
 
