@@ -1,44 +1,25 @@
 # Kajan Arulnathan
 
-Étudiant en 3e année de BUT Informatique à l’IUT de Créteil-Vitry (UPEC). Je travaille avec Python, SQL et JavaScript sur des projets de traitement de données, de développement web et d’automatisation.
+Étudiant en 3e année de BUT Informatique à l’IUT de Créteil-Vitry (UPEC). Je travaille avec Python, SQL et JavaScript sur le traitement de données, le développement web et l’automatisation.
 
-**[Voir mon portfolio](https://kajan94.github.io/Portefolio/)** · [LinkedIn](https://www.linkedin.com/in/kajan-arulnathan-b466a1330/)
+**[Portfolio](https://kajan94.github.io/Portefolio/)** · [LinkedIn](https://www.linkedin.com/in/kajan-arulnathan-b466a1330/)
 
-## Projets d’équipe
+## Projets à découvrir
 
-- **[OcéanView](https://github.com/Kajan94/oceanview-copernicus)** — explorer trois indicateurs marins avec Flask, MySQL, Leaflet et Plotly. Le dépôt fournit un jeu de démonstration reproductible.
-- **[DiplomAAtique](https://github.com/Kajan94/diplomaatique)** — extraire et indexer des arrêtés depuis du texte OCR. Deux exemples fictifs permettent de vérifier le résultat JSON.
-- **[Data Ameli](https://github.com/Kajan94/site-amelie)** — interroger des données agrégées dans une interface Flask. Le [dépôt SQLite](https://github.com/Kajan94/database-amelie) contient le rapport et des requêtes pour reproduire les résultats.
-- **[Stations Vélib’](https://github.com/Kajan94/Projet-Velib)** — comparer deux représentations géométriques du réseau et contrôler l’instantané de stations avec Python.
-- **[Hub’Eau](https://github.com/Kajan94/site-HubEau)** — consulter les résultats d’analyses d’eau et les réseaux d’une commune à partir de deux sources, une API et une base locale.
+- **[Stage Data et automatisation](https://github.com/Kajan94/stage-data-automatisation)** — Assistant documentaire local, tableau de bord d’occupation et automatisation de la gestion des accès.
+- **[OcéanView](https://github.com/Kajan94/Oceanview)** — Application d’exploration marine. API Flask, MySQL, Leaflet et Plotly.
+- **[Data Ameli](https://kajan94.github.io/Portefolio/#ameli)** — Tableau de bord Excel et exploration des données de santé avec [Flask](https://github.com/Kajan94/site-amelie) et [SQLite](https://github.com/Kajan94/database-amelie).
+- **[Voir mes autres projets](https://kajan94.github.io/Portefolio/#projets)** — DiplomAAtique, Vélib’ et Hub’Eau.
 
 ## Expérience
 
-### Centreville Télévision · Stagiaire DevOps et automatisation
+**Centreville Télévision · Stage DevOps et automatisation · Avril à juin 2026**
 
-Paris · avril à juin 2026
+J’ai conçu un assistant RAG local avec n8n, Qdrant et Ollama. J’ai aussi développé une application Python et Flask pour les statistiques d’occupation et automatisé une partie de la préparation des accès des techniciens.
 
-- **Assistant RAG local.** J’ai automatisé l’indexation de procédures Notion dans Qdrant et créé une interface conversationnelle avec n8n et Ollama.
-- **Statistiques d’occupation.** J’ai développé une application Python et Flask pour suivre l’occupation des salles et l’utilisation des logiciels.
-- **Automatisation des accès.** J’ai relié le planning Farmer’s Wife à Active Directory avec n8n pour vérifier et créer les comptes des intermittents.
+![Parcours d’une question dans l’assistant documentaire](https://raw.githubusercontent.com/Kajan94/stage-data-automatisation/main/docs/architecture-rag.png)
 
-**Workflow n8n** — L’agent recherche une procédure dans Qdrant avant de formuler une réponse avec le modèle local.
-
-<img src="https://github.com/user-attachments/assets/d6223b32-aeec-4a7e-b53b-8eb44fabeb3b" alt="Workflow n8n de l’assistant RAG utilisant Ollama et Qdrant" width="720">
-
-**Interface web** — Les techniciens peuvent poser une question sur une procédure ou démarrer une nouvelle discussion.
-
-<img src="https://github.com/user-attachments/assets/c3759571-38e5-4c4e-bee5-6b413a17945c" alt="Écran d’accueil de l’assistant technique avec un champ de question" width="720">
-
-#### Tableau de bord d’occupation des salles
-
-**Indicateurs d’occupation** — Données fictives. Le tableau de bord calcule les taux d’occupation par catégorie de salle et affiche les logiciels utilisés sur la période filtrée.
-
-<img src="https://github.com/user-attachments/assets/8068cb09-c72c-403f-87eb-58b3be9bf2a7" alt="Tableau de bord d’occupation avec filtres de dates, indicateurs et répartition des logiciels, sur données fictives." width="720">
-
-**Inventaire des salles** — Données fictives. La vue détaillée liste les salles par nom et catégorie.
-
-<img src="https://github.com/user-attachments/assets/31370ec9-5c57-4110-af7a-aff045128d2b" alt="Inventaire de salles fictives avec leur catégorie et leur identifiant de démonstration." width="720">
+[Lire l’étude de cas et le rapport public](https://github.com/Kajan94/stage-data-automatisation)
 
 ## Disponibilités
 
