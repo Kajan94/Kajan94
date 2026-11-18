@@ -19,8 +19,6 @@
 
 J’ai conçu un assistant RAG local avec n8n, Qdrant et Ollama. J’ai aussi développé une application Python et Flask pour les statistiques d’occupation et automatisé une partie de la préparation des accès des techniciens.
 
-![Workflow n8n reliant un agent IA à Ollama et à la base vectorielle Qdrant.](https://github.com/user-attachments/assets/d6223b32-aeec-4a7e-b53b-8eb44fabeb3b)
-
 [Lire l’étude de cas](https://github.com/Kajan94/stage-data-automatisation)
 
 ## Disponibilités
