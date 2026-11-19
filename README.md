@@ -6,7 +6,6 @@
 
 ## Projets à découvrir
 
-- **[Stage Data et automatisation](https://github.com/Kajan94/stage-data-automatisation)** — Assistant documentaire local, tableau de bord d’occupation et automatisation de la gestion des accès.
 - **[DiplomAAtique](https://github.com/Kajan94/diplomaatique)** — Extraction d’arrêtés, export JSON et recherche avec Flask et SQLite.
 - **[OcéanView](https://github.com/Kajan94/Oceanview)** — Application d’exploration marine. API Flask, MySQL, Leaflet et Plotly.
 - **[Hub’Eau](https://github.com/Kajan94/HubEau)** — Analyses d’eau potable et recherche des réseaux de distribution par commune.
