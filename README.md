@@ -7,12 +7,12 @@
 ## Projets à découvrir
 
 - **[Stage Data et automatisation](https://github.com/Kajan94/stage-data-automatisation)** — Assistant documentaire local, tableau de bord d’occupation et automatisation de la gestion des accès.
-- **[OcéanView](https://github.com/Kajan94/Oceanview)** — Application d’exploration marine. API Flask, MySQL, Leaflet et Plotly.
-- **[Data Ameli](https://github.com/Kajan94/site-amelie)** — Application Flask pour analyser les données de l’Assurance Maladie.
-- **[Dépôt de la base SQLite](https://github.com/Kajan94/database-amelie)** — Base relationnelle SQLite du site Data Ameli.
 - **[DiplomAAtique](https://github.com/Kajan94/diplomaatique)** — Extraction d’arrêtés, export JSON et recherche avec Flask et SQLite.
-- **[Stations Vélib’](https://github.com/Kajan94/Projet-Velib)** — Cartes de proximité des stations et modélisation du raccordement électrique.
+- **[OcéanView](https://github.com/Kajan94/Oceanview)** — Application d’exploration marine. API Flask, MySQL, Leaflet et Plotly.
 - **[Hub’Eau](https://github.com/Kajan94/HubEau)** — Analyses d’eau potable et recherche des réseaux de distribution par commune.
+- **[Stations Vélib’](https://github.com/Kajan94/Projet-Velib)** — Cartes de proximité des stations et modélisation du raccordement électrique.
+- **[Data Ameli](https://github.com/Kajan94/site-amelie)** — Application Flask pour analyser les données de l’Assurance Maladie.
+- **[Base de données Data Ameli](https://github.com/Kajan94/database-amelie)** — Base relationnelle SQLite du site Data Ameli.
 
 ## Expérience
 
